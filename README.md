@@ -9,6 +9,15 @@ page in the venus wiki for a description of changes from one version to the next
 Read [the project bbb page](https://github.com/victronenergy/venus/wiki/project-bbb)
 to find out what we are doing with the Beaglebone Black and Beaglebone Enhanced.
 
-See the [SanCloudLtd/BeagleBoneEnhanced](https://github.com/SanCloudLtd/BeagleBoneEnhanced)
+### Beaglebone vs BBB vs BBE vs BBG naming
+
+Note that we started the project using BBB as a name for lots of things. But
+that is a bit confusing, since there is really a whole family of more or less
+compatible boards:
+
+- BeagleBone Black
+- BeagleBone Enhanced: this is the one we'll use in our product. See
+the [SanCloudLtd/BeagleBoneEnhanced](https://github.com/SanCloudLtd/BeagleBoneEnhanced)
 for the bbe schematic.
+- BeagleBone Green
 
