@@ -1,10 +1,10 @@
-# bbb-hardware
+# venus-hardware
 
-This repo contains schematics and other files relating to the hardware of our
-cape for the beaglebone.
+This repo contains schematics and other files relating to the hardware of
+the [Venus GX](https://www.victronenergy.com/panel-systems-remote-monitoring/venus-gx).
 
 See the [bbb ve-cape revisions](https://github.com/victronenergy/venus/wiki/bbb-ve-cape-revisions)
-page in the venus wiki for a description of changes from one version to the next.
+page in the venus wiki for the change log.
 
 Read [the project bbb page](https://github.com/victronenergy/venus/wiki/project-bbb)
 to find out what we are doing with the Beaglebone Black and Beaglebone Enhanced.
@@ -20,4 +20,3 @@ compatible boards:
 the [SanCloudLtd/BeagleBoneEnhanced](https://github.com/SanCloudLtd/BeagleBoneEnhanced)
 for the bbe schematic.
 - BeagleBone Green
-
