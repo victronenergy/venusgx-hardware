@@ -1,4 +1,4 @@
-# venus-hardware
+# venusgx-hardware
 
 This repo contains schematics and other files relating to the hardware of
 the [Venus GX](https://www.victronenergy.com/panel-systems-remote-monitoring/venus-gx).
